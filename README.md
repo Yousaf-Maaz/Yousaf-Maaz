@@ -6,6 +6,7 @@ I am Yousaf Maaz, studying software engineering at Fast-Nuces. currently enrolle
 I am experienced in C/C++ programming with a passion for front-end development. She is skilled in designing efficient web pages and is currently undergoing front-end training. Problem-solving mindset, dedicated to learning.
 
 Skills: C /C++  / HTML / CSS / Dart/ Flutter
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,C,C++)](https://skillicons.dev)
 
 - 🌱 I’m currently learning Software Engineering  
 - 📫 How to reach me: yousafmaaz.kakakhel@gmail.com 
