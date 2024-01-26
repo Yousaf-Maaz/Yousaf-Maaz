@@ -7,7 +7,6 @@ I am experienced in C/C++ programming with a passion for front-end development. 
 
 Skills: C /C++  / HTML / CSS / Dart/ Flutter
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,flutter,dart,C language ,C++ langauge)](https://skillicons.dev)
 
 - 🌱 I’m currently learning Software Engineering  
 - 📫 How to reach me: yousafmaaz.kakakhel@gmail.com 
