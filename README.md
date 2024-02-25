@@ -9,7 +9,7 @@ Skills: C /C++  / HTML / CSS / Dart/ Flutter
 ### Skills
 ![C++](https://img.shields.io/badge/C++-Expert-brightgreen)
 ![C](https://img.shields.io/badge/C-Expert-brightgreen)
-![Flutter](https://img.shields.io/badge/Flutter-Basic-blueviolet)
+![Flutter](https://img.shields.io/badge/Flutter-Basic-brightgreen)
 ![HTML5](https://img.shields.io/badge/HTML5-Basic-red)
 ![CSS](https://img.shields.io/badge/CSS-Basic-red)
 ![C](https://img.shields.io/badge/Dart-Basic-brightgreen)
